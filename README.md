@@ -4,7 +4,7 @@
 
 My name is **_Abubakar Muhammad Danhaya_**, and I am an Arewa Data Science Fellow cohort 3. I have keen interest in leveraging machine learning and artificial intelligence to explore sustainable construction materials, with a particular focus on geopolymer.
 
-![image](https://github.com/HABUDANHAYABK/ArewaDS-Python-Exercises/blob/main/Screenshot_20250103-202833_1.jpg?raw=true)
+![image](https://github.com/HABUDANHAYABK/ArewaDS-Python-Exercises/blob/main/ArewaDs.jpg?raw=true)
 
 ## Objective
 
