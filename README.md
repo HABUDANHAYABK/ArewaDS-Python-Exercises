@@ -30,5 +30,5 @@ I have submitted the exercises of the following modules:
 _Upon completing the Arewa Data Science Fellowship 2024, Cohort 3, I aim to acquire expertise in python programming for data science, enabling me to extract insight and knowledge from complex data sets. With the potential to extend my fellowship, I also aspire to develop skills in **Machine learning with python, Deep learnin with PyTorch and Natural language processing with Transformers**._
 
 ## Mindmap To Learning Python
-![image](https://github.com/HABUDANHAYABK/ArewaDS-Python-Exercises/blob/main/Screenshot_20250103-203237_1.jpg?raw=true)
+![image](https://github.com/HABUDANHAYABK/ArewaDS-Python-Exercises/blob/main/python%20roadmap.jpg?raw=true)
 from: Whatsapp Python Programming channel
