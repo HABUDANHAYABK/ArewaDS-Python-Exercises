@@ -10,6 +10,7 @@ My name is **_Abubakar Muhammad Danhaya_**, and I am an Arewa Data Science Fello
 
 This repository contains my weekly python programming exercises for the Arewa Data Science Fellowship program. 
 I have submitted the exercises of the following modules:
+
 [x] Introduction
 
 [x] Variables
@@ -31,4 +32,4 @@ _Upon completing the Arewa Data Science Fellowship 2024, Cohort 3, I aim to acqu
 
 ## Mindmap To Learning Python
 ![image](https://github.com/HABUDANHAYABK/ArewaDS-Python-Exercises/blob/main/python%20roadmap.jpg?raw=true)
-from: Whatsapp Python Programming channel
+from: Python Programming Whatsapp channel
